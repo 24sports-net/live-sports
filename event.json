@@ -1,17 +1,17 @@
 [
   {
-    "name": "WILLOW (PC/MOBILE)",
-    "url": "https://24sports-stack.blogspot.com/?id=prime1",
-    "type": "embed"
+    "label": "SKY CRICKET (PC/MOBILE)",
+    "type": "embed",
+    "url": "https://24sports-iplayer1.blogspot.com/?24spn=https://32tech0steam0dp01.org/live/UK_SkySportsCricketFHD/chunks.m3u8"
   },
   {
-    "name": "SONY ENG HD 1080P (MOB)",
-    "url": "https://tataplay.slivcdn.com/hls/live/2011747/TEN1HD/master_3500.m3u8",
-    "type": "play"
+    "label": "SONY ENG HD 1080P (MOB)",
+    "type": "play",
+    "url": "https://tataplay.slivcdn.com/hls/live/2011747/TEN1HD/master_3500.m3u8"
   },
   {
-    "name": "ICC TV (NS PLAYER)",
-    "url": "https://tinyurl.com/y5cpe4m5",
-    "type": "link"
+    "label": "ICC TV (NS PLAYER)",
+    "type": "link",
+    "url": "https://tinyurl.com/y5cpe4m5"
   }
 ]
