@@ -1,14 +1,204 @@
 [
   {
-    "name": "SKY SPORTS (Embed)",
+    "name": "SKY SPORTS (PC/MOBILE)",
     "type": "embed",
     "url": "https://24sports-iplayer1.blogspot.com/?24spn=https://32tech0steam0dp01.org/live/UK_SkySportsCricketFHD/chunks.m3u8"
   },
   {
-    "name": "SONY HINDI 720P (Play)",
+    "name": "SKY SPORTS (IOS)",
+    "type": "embed",
+    "url": "https://24sports-iplayer2.blogspot.com/?24spn=https://32tech0steam0dp01.org/live/UK_SkySportsCricketFHD/chunks.m3u8"
+  },
+  {
+    "name": "SKY SPORTS (FAST)",
+    "type": "embed",
+    "url": "https://24sports-net-amazon-prime.blogspot.com"
+  },
+  {
+    "name": "FOX 501 (PC/MOBILE)",
+    "type": "embed",
+    "url": "https://24sports-iplayer1.blogspot.com/?24spn=https://32tech0steam0dp01.org/live/UK_SkySportsCricketFHD/chunks.m3u8"
+  },
+  {
+    "name": "FOX 501 (IOS)",
+    "type": "embed",
+    "url": "https://24sports-iplayer1.blogspot.com/?24spn=https://32tech0steam0dp01.org/live/UK_SkySportsCricketFHD/chunks.m3u8"
+  },
+  {
+    "name": "FOX 501 (FAST)",
+    "type": "embed",
+    "url": "https://24sports-net-prime-hindi.blogspot.com"
+  },
+  {
+    "name": "SONY ENG (PC/MOBILE)",
+    "type": "embed",
+    "url": "https://24sports-stack.blogspot.com/?id=prime2"
+  },
+  {
+    "name": "WILLOW (PC/MOBILE)",
+    "type": "embed",
+    "url": "https://24sports-stack.blogspot.com/?id=prime1"
+  },
+  {
+    "name": "SONY ENG 1080P (MOBILE)",
+    "type": "play",
+    "url": "https://tataplay.slivcdn.com/hls/live/2011747/TEN1HD/master_3500.m3u8"
+  },
+  {
+    "name": "SONY ENG 720P+ (MOBILE)",
+    "type": "play",
+    "url": "https://tataplay.slivcdn.com/hls/live/2011747/TEN1HD/master_2000.m3u8"
+  },
+  {
+    "name": "SONY ENG 720P (MOBILE)",
+    "type": "play",
+    "url": "https://tataplay.slivcdn.com/hls/live/2011747/TEN1HD/master_1300.m3u8"
+  },
+  {
+    "name": "SONY ENG 540P (MOBILE)",
+    "type": "play",
+    "url": "https://tataplay.slivcdn.com/hls/live/2011747/TEN1HD/master_900.m3u8"
+  },
+  {
+    "name": "SONY ENG 360P (MOBILE)",
+    "type": "play",
+    "url": "https://tataplay.slivcdn.com/hls/live/2011747/TEN1HD/master_664.m3u8"
+  },
+  {
+    "name": "SONY ENG 288P (MOBILE)",
+    "type": "play",
+    "url": "https://tataplay.slivcdn.com/hls/live/2011747/TEN1HD/master_412.m3u8"
+  },
+  {
+    "name": "SONY ENG 216P (MOBILE)",
+    "type": "play",
+    "url": "https://tataplay.slivcdn.com/hls/live/2011747/TEN1HD/master_224.m3u8"
+  },
+  {
+    "name": "SONY ENG 144P (MOBILE)",
+    "type": "play",
+    "url": "https://tataplay.slivcdn.com/hls/live/2011747/TEN1HD/master_108.m3u8"
+  },  
+  {
+    "name": "SONY HIN 1080P (MOBILE)",
+    "type": "play",
+    "url": "https://tataplay.slivcdn.com/hls/live/2020591/TEN3HD/master_3500.m3u8"
+  },
+  {
+    "name": "SONY HIN 720P+ (MOBILE)",
     "type": "play",
     "url": "https://tataplay.slivcdn.com/hls/live/2020591/TEN3HD/master_2000.m3u8"
   },
+  {
+    "name": "SONY HIN 720P (MOBILE)",
+    "type": "play",
+    "url": "https://tataplay.slivcdn.com/hls/live/2020591/TEN3HD/master_1300.m3u8"
+  },
+  {
+    "name": "SONY HIN 540P (MOBILE)",
+    "type": "play",
+    "url": "https://tataplay.slivcdn.com/hls/live/2020591/TEN3HD/master_900.m3u8"
+  },
+  {
+    "name": "SONY HIN 360P (MOBILE)",
+    "type": "play",
+    "url": "https://tataplay.slivcdn.com/hls/live/2020591/TEN3HD/master_664.m3u8"
+  },
+  {
+    "name": "SONY HIN 288P (MOBILE)",
+    "type": "play",
+    "url": "https://tataplay.slivcdn.com/hls/live/2020591/TEN3HD/master_412.m3u8"
+  },
+  {
+    "name": "SONY HIN 216P (MOBILE)",
+    "type": "play",
+    "url": "https://tataplay.slivcdn.com/hls/live/2020591/TEN3HD/master_224.m3u8"
+  },
+  {
+    "name": "SONY HIN 144P (MOBILE)",
+    "type": "play",
+    "url": "https://tataplay.slivcdn.com/hls/live/2020591/TEN3HD/master_108.m3u8"
+  },
+  {
+    "name": "SONY TAM 1080P (MOBILE)",
+    "type": "play",
+    "url": "https://tataplay.slivcdn.com/hls/live/2020589/ten4hd/master_3500.m3u8"
+  },
+  {
+    "name": "SONY TAM 720P+ (MOBILE)",
+    "type": "play",
+    "url": "https://tataplay.slivcdn.com/hls/live/2020589/ten4hd/master_2000.m3u8"
+  },
+  {
+    "name": "SONY TAM 720P (MOBILE)",
+    "type": "play",
+    "url": "https://tataplay.slivcdn.com/hls/live/2020589/ten4hd/master_1300.m3u8"
+  },
+  {
+    "name": "SONY TAM 540P (MOBILE)",
+    "type": "play",
+    "url": "https://tataplay.slivcdn.com/hls/live/2020589/ten4hd/master_900.m3u8"
+  },
+  {
+    "name": "SONY TAM 360P (MOBILE)",
+    "type": "play",
+    "url": "https://tataplay.slivcdn.com/hls/live/2020589/ten4hd/master_664.m3u8"
+  },
+  {
+    "name": "SONY TAM 288P (MOBILE)",
+    "type": "play",
+    "url": "https://tataplay.slivcdn.com/hls/live/2020589/ten4hd/master_412.m3u8"
+  },
+  {
+    "name": "SONY TAM 216P (MOBILE)",
+    "type": "play",
+    "url": "https://tataplay.slivcdn.com/hls/live/2020589/ten4hd/master_224.m3u8"
+  },
+  {
+    "name": "SONY TAM 144P (MOBILE)",
+    "type": "play",
+    "url": "https://tataplay.slivcdn.com/hls/live/2020589/ten4hd/master_108.m3u8"
+  },
+  {
+    "name": "SONY TEL 1080P (MOBILE)",
+    "type": "play",
+    "url": "https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master_3500.m3u8"
+  },
+  {
+    "name": "SONY TEL 720P+ (MOBILE)",
+    "type": "play",
+    "url": "https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master_2000.m3u8"
+  },
+  {
+    "name": "SONY TEL 720P (MOBILE)",
+    "type": "play",
+    "url": "https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master_1300.m3u8"
+  },
+  {
+    "name": "SONY TEL 540P (MOBILE)",
+    "type": "play",
+    "url": "https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master_900.m3u8"
+  },
+  {
+    "name": "SONY TEL 360P (MOBILE)",
+    "type": "play",
+    "url": "https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master_664.m3u8"
+  },
+  {
+    "name": "SONY TEL 288P (MOBILE)",
+    "type": "play",
+    "url": "https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master_412.m3u8"
+  },
+  {
+    "name": "SONY TEL 216P (MOBILE)",
+    "type": "play",
+    "url": "https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master_224.m3u8"
+  },
+  {
+    "name": "SONY TEL 144P (MOBILE)",
+    "type": "play",
+    "url": "https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master_108.m3u8"
+  },  
   {
     "name": "ICC TV (Redirect)",
     "type": "redirect",
