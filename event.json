@@ -37,7 +37,7 @@
   {
     "name": "WILLOW (PC/MOBILE)",
     "type": "embed",
-    "url": "https://24sports-stack.blogspot.com/?id=prime1"
+    "url": "https://24sports-cricmax.blogspot.com"
   },
   {
     "name": "SONY ENG 1080P (MOBILE)",
@@ -198,10 +198,75 @@
     "name": "SONY TEL 144P (MOBILE)",
     "type": "play",
     "url": "https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master_108.m3u8"
+  }, 
+  {
+    "name": "SONY ENG 60FPS (MOBILE)",
+    "type": "redirect",
+    "url": "https://24sports-net.blogspot.com/p/cricket-live-4.html"
+  },    
+  {
+    "name": "ICC TV (NS PLAYER)",
+    "type": "redirect",
+    "url": "https://24sports-net.blogspot.com/p/icc-tv.html"
   },  
   {
-    "name": "ICC TV (Redirect)",
+    "name": "SONY ENGLISH 50FPS (NS PLAYER)",
     "type": "redirect",
-    "url": "https://tinyurl.com/y5cpe4m5"
+    "url": "https://24sports-net.blogspot.com/p/sony-sports-60fps.html"
+  },  
+  {
+    "name": "SONY ENG (NS PLAYER)",
+    "type": "redirect",
+    "url": "https://24sports-net.blogspot.com/p/sony-ten-5-hd.html"
+  },  
+  {
+    "name": "SONY HIN (NS PLAYER)",
+    "type": "redirect",
+    "url": "https://24sports-net.blogspot.com/p/sony-ten-3-hd.html"
+  },  
+  {
+    "name": "SONY TAM (NS PLAYER)",
+    "type": "redirect",
+    "url": "https://24sports-net.blogspot.com/p/sony-ten-4-hd.html"
+  },  
+  {
+    "name": "JSTAR ENGLISH (NS PLAYER)",
+    "type": "redirect",
+    "url": "https://24sports-net.blogspot.com/p/jstar-english.html"
+  },  
+  {
+    "name": "JSTAR HINDI (NS PLAYER)",
+    "type": "redirect",
+    "url": "https://24sports-net.blogspot.com/p/jstar-hindi.html"
+  },  
+  {
+    "name": "JSTAR TAMIL (NS PLAYER)",
+    "type": "redirect",
+    "url": "https://24sports-net.blogspot.com/p/jstar-tamil.html"
+  },  
+  {
+    "name": "JSTAR TELUGU (NS PLAYER)",
+    "type": "redirect",
+    "url": "https://24sports-net.blogspot.com/p/jstar-telugu.html"
+  },  
+  {
+    "name": "JSTAR KANNADA (NS PLAYER)",
+    "type": "redirect",
+    "url": "https://24sports-net.blogspot.com/p/jstar-kannada.html"
+  }, 
+  {
+    "name": "SONY 60FPS (PC CHROME EXTENSION)",
+    "type": "redirect",
+    "url": "https://24sports-net.blogspot.com/p/jstar-kannada.html"
+  }, 
+  {
+    "name": "SONY HINDI (PC CHROME EXTENSION)",
+    "type": "redirect",
+    "url": "https://24sports-net.blogspot.com/p/jstar-kannada.html"
+  }, 
+  {
+    "name": "SONY TAMIL (PC CHROME EXTENSION)",
+    "type": "redirect",
+    "url": "https://24sports-net.blogspot.com/p/jstar-kannada.html"
   }
 ]
