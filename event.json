@@ -1,12 +1,17 @@
 [
   {
-    "name": "SKY CRICKET (PC/MOBILE)",
+    "name": "SKY SPORTS (Embed)",
     "type": "embed",
     "url": "https://24sports-iplayer1.blogspot.com/?24spn=https://32tech0steam0dp01.org/live/UK_SkySportsCricketFHD/chunks.m3u8"
   },
   {
-    "name": "SONY HIN HD 720P (MOB)",
+    "name": "SONY HINDI 720P (Play)",
     "type": "play",
     "url": "https://tataplay.slivcdn.com/hls/live/2020591/TEN3HD/master_2000.m3u8"
+  },
+  {
+    "name": "ICC TV (Redirect)",
+    "type": "redirect",
+    "url": "https://tinyurl.com/y5cpe4m5"
   }
 ]
